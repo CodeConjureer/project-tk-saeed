@@ -7,8 +7,10 @@ import time
 person1=[]
 person2=[]
 
+#comnt def totorales 
 
-def open_page1():
+
+def opensd_page1():
   
   page1 =Toplevel()
   page1.title     ("Person1")
